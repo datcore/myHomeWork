@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+.table {
+  max-width: 1000px;
+  max-height: 500px;
+  border: 1px solid #000;
+  border-bottom-left-radius: 3%;
+  border-top-left-radius: 2%;
+  overflow: overlay;
+  background-color: #788189;
+}
+
+div {
+  display: inline-block;
+  max-width: 200px;
+  border: 2px solid #000;
+  border-radius: 20px;
+  padding: 15px;
+  margin: 5px 5px 1px;
+  background-color: #a97461;
+  box-shadow: 8px 4px 4px;
+}
